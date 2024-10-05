@@ -1,0 +1,1 @@
+# Checking-if-a-number-is-an-Armstrong-number-or-not-FAST-NUCES-First-Sem-BSCS-PF-Lab06
